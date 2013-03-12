@@ -1,8 +1,8 @@
 #Reflection.js
 
 ```javascript
- var myObj = new myObj();
- var reflection = new Reflection(myObj);
+ var my = new myObj();
+ var reflection = new Reflection(my);
  
  reflection.getProperties();
  reflection.getMethods();
