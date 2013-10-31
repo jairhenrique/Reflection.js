@@ -8,3 +8,6 @@
  reflection.getMethods();
  reflection.getOwnMethods();
  ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jairhenrique/reflection.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
